@@ -1,8 +1,0 @@
-name: Adakit
-version: '${project.version}'
-main: com.agevate.adakit.Adakit
-api-version: '1.20'
-commands:
-  adakit:
-    description: Gives the Adakit to the player or reloads the plugin configuration.
-    usage: /adakit [reload]
